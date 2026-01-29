@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Chili MATE Config Apply
+Exec=/bin/bash -c "$HOME/.config/chili-mate-config/apply.sh"
+X-GNOME-Autostart-enabled=true
+NoDisplay=true

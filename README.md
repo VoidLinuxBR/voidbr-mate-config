@@ -1,3 +1,3 @@
-# voidbr-pkgfile
+# voidbr-mate-config
 
-Template for VoidBR pkgmake/pkgfile packages
+Skel config for Void Linux MATE Meta Package
