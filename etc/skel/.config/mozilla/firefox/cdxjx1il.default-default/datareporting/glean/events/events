@@ -1,0 +1,37 @@
+{"timestamp":141772,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"path_key":"clean","can_load":"false","loadfail_reason":"File doesn't exist.","glean_timestamp":"1769722886892"}}
+{"timestamp":141782,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"loadfail_reason":"File doesn't exist.","path_key":"recovery","can_load":"false","glean_timestamp":"1769722886901"}}
+{"timestamp":141797,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"can_load":"false","glean_timestamp":"1769722886916","path_key":"recoveryBackup","loadfail_reason":"File doesn't exist."}}
+{"timestamp":141812,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"path_key":"cleanBackup","glean_timestamp":"1769722886931","can_load":"false","loadfail_reason":"File doesn't exist."}}
+{"timestamp":141817,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"loadfail_reason":"File doesn't exist.","path_key":"clean","can_load":"false","glean_timestamp":"1769722886936"}}
+{"timestamp":141891,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"can_load":"false","glean_timestamp":"1769722887010","path_key":"recovery","loadfail_reason":"File doesn't exist."}}
+{"timestamp":141905,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"glean_timestamp":"1769722887025","loadfail_reason":"File doesn't exist.","path_key":"recoveryBackup","can_load":"false"}}
+{"timestamp":141908,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"loadfail_reason":"File doesn't exist.","glean_timestamp":"1769722887028","can_load":"false","path_key":"cleanBackup"}}
+{"timestamp":142625,"category":"webcompatreporting","name":"reason_dropdown","extra":{"setting":"required","glean_timestamp":"1769722887744"}}
+{"timestamp":142946,"category":"nimbus_events","name":"migration","extra":{"success":"true","migration_id":"multi-phase-migrations","glean_timestamp":"1769722888066"}}
+{"timestamp":143288,"category":"nimbus_events","name":"migration","extra":{"migration_id":"noop","glean_timestamp":"1769722888408","success":"true"}}
+{"timestamp":143288,"category":"nimbus_events","name":"migration","extra":{"migration_id":"noop","success":"true","glean_timestamp":"1769722888408"}}
+{"timestamp":143289,"category":"nimbus_events","name":"migration","extra":{"glean_timestamp":"1769722888408","migration_id":"import-enrollments-to-sql","success":"true"}}
+{"timestamp":143289,"category":"nimbus_events","name":"migration","extra":{"success":"true","migration_id":"graduate-firefox-labs-auto-pip","glean_timestamp":"1769722888408"}}
+{"timestamp":143326,"category":"jsonfile","name":"load_autofillprofiles","extra":{"value":"error_notfounderror","glean_timestamp":"1769722888445"}}
+{"timestamp":143413,"category":"containers","name":"container_profile_loaded","extra":{"containers":"4","glean_timestamp":"1769722888532"}}
+{"timestamp":143764,"category":"jsonfile","name":"load_logins","extra":{"value":"error_notfounderror","glean_timestamp":"1769722888883"}}
+{"timestamp":143954,"category":"upgrade_dialog","name":"trigger_reason","extra":{"glean_timestamp":"1769722889073","value":"not-major"}}
+{"timestamp":144362,"category":"normandy","name":"enroll_nimbus_experiment","extra":{"experimentType":"rollout","value":"fx-accounts-ping-release-rollout-2","branch":"control","glean_timestamp":"1769722889481"}}
+{"timestamp":144362,"category":"nimbus_events","name":"enrollment","extra":{"experiment":"fx-accounts-ping-release-rollout-2","experiment_type":"rollout","branch":"control","glean_timestamp":"1769722889481"}}
+{"timestamp":144554,"category":"normandy","name":"enroll_nimbus_experiment","extra":{"value":"ai-chatbot-page-summarization-mvp-treatment-a-callout-badge-rollout-v2","glean_timestamp":"1769722889673","branch":"treatment-a-callout-badge","experimentType":"rollout"}}
+{"timestamp":144554,"category":"nimbus_events","name":"enrollment","extra":{"branch":"treatment-a-callout-badge","experiment":"ai-chatbot-page-summarization-mvp-treatment-a-callout-badge-rollout-v2","experiment_type":"rollout","glean_timestamp":"1769722889673"}}
+{"timestamp":144637,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1769722889756"}}
+{"timestamp":144657,"category":"nimbus_events","name":"migration","extra":{"migration_id":"firefox-labs-enrollments","success":"true","glean_timestamp":"1769722889777"}}
+{"timestamp":144818,"category":"translations","name":"identify_page_language","extra":{"glean_timestamp":"1769722889938","total_time":"74.64296900000045","extraction_time":"4.9607450000003155","identified_language":"en","confident":"false","is_lang_attribute_valid":"true","html_lang_attribute":"en","extracted_code_units":"455","identification_time":"69.68222400000013","lang_tags_match":"true"}}
+{"timestamp":144862,"category":"translations.panel","name":"open","extra":{"auto_show":"true","opened_from":"translationsButton","document_language":"en","flow_id":"f088c810-101e-4591-877a-93ba9c0013f6","view_name":"defaultView","glean_timestamp":"1769722889982"}}
+{"timestamp":145330,"category":"uptake.remotecontent.result","name":"uptake_normandy","extra":{"glean_timestamp":"1769722890449","source":"normandy/action/AddonRollbackAction","value":"success"}}
+{"timestamp":145330,"category":"uptake.remotecontent.result","name":"uptake_normandy","extra":{"value":"success","glean_timestamp":"1769722890449","source":"normandy/action/AddonRolloutAction"}}
+{"timestamp":145330,"category":"uptake.remotecontent.result","name":"uptake_normandy","extra":{"glean_timestamp":"1769722890450","value":"success","source":"normandy/action/ConsoleLogAction"}}
+{"timestamp":145331,"category":"uptake.remotecontent.result","name":"uptake_normandy","extra":{"value":"success","source":"normandy/action/ShowHeartbeatAction","glean_timestamp":"1769722890450"}}
+{"timestamp":145331,"category":"uptake.remotecontent.result","name":"uptake_normandy","extra":{"source":"normandy/runner","value":"success","glean_timestamp":"1769722890450"}}
+{"timestamp":145331,"category":"uptake.remotecontent.result","name":"uptake_normandy","extra":{"glean_timestamp":"1769722890451","value":"success","source":"normandy/action/PreferenceExperimentAction"}}
+{"timestamp":145333,"category":"uptake.remotecontent.result","name":"uptake_normandy","extra":{"source":"normandy/action/PreferenceRollbackAction","value":"success","glean_timestamp":"1769722890452"}}
+{"timestamp":145333,"category":"uptake.remotecontent.result","name":"uptake_normandy","extra":{"value":"success","glean_timestamp":"1769722890452","source":"normandy/action/PreferenceRolloutAction"}}
+{"timestamp":145333,"category":"uptake.remotecontent.result","name":"uptake_normandy","extra":{"glean_timestamp":"1769722890453","source":"normandy/action/BranchedAddonStudyAction","value":"success"}}
+{"timestamp":145838,"category":"nimbus_events","name":"database_write","extra":{"glean_timestamp":"1769722890957","success":"true"}}
+{"timestamp":149251,"category":"doh","name":"state_shutdown","extra":{"glean_timestamp":"1769722894370","value":"null"}}

@@ -1,0 +1,24 @@
+mate-session-check-accelerated: GL Helper exited with code 512
+libEGL warning: DRI3 error: Could not get DRI3 device
+libEGL warning: Ensure your X server supports DRI3 to get accelerated rendering
+mate-session-check-accelerated: GLES Helper exited with code 512
+Failed to spawn gnome-keyring-daemon: Falha ao executar processo filho “gnome-keyring-daemon” (Arquivo ou diretório inexistente)
+mate-session[17640]: WARNING: Unable to find provider '' of required component 'dock'
+Window manager warning: Failed to load theme "Arc-Dark": Failed to find a valid file for theme Arc-Dark
+
+Window manager warning: Failed to load theme "Simple": Failed to find a valid file for theme Simple
+
+Window manager warning: Log level 128: unsetenv() is not thread-safe and should not be used after threads are created
+mate-session[17640]: WARNING: Could not launch application 'create-template.desktop': Unable to start application: Falha ao executar processo filho “create-template” (Arquivo ou diretório inexistente)
+
+(caja:17864): Gtk-WARNING **: 18:52:21.663: Failed to register client: GDBus.Error:org.gnome.SessionManager.AlreadyRegistered: Unable to register client
+
+** (mate-settings-daemon:17891): WARNING **: 18:52:21.684: There was a problem when setting QT_FONT_DPI=96: GDBus.Error:org.gnome.SessionManager.NotInInitialization: Setenv interface is only available during the Initialization phase
+
+** (mate-settings-daemon:17891): WARNING **: 18:52:21.689: There was a problem when setting QT_SCALE_FACTOR=1: GDBus.Error:org.gnome.SessionManager.NotInInitialization: Setenv interface is only available during the Initialization phase
+
+(mate-power-manager:17897): PowerManager-WARNING **: 18:52:21.722: Failed to get session for pid 17897: The name org.freedesktop.ConsoleKit was not provided by any .service files
+
+(mate-power-manager:17897): PowerManager-WARNING **: 18:52:21.730: could not map keysym 1008ffa8 to keycode
+
+(caja:17864): GLib-GObject-CRITICAL **: 18:52:21.833: ../gobject/gsignal.c:2437: signal 'middle_click' is invalid for instance '0x55a95a8f5ff0' of type 'FMDesktopIconView'
