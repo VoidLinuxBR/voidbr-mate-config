@@ -1,5 +1,5 @@
 [Default Applications]
-text/plain=ecrire.desktop
+text/plain=chili-clonedisk.desktop
 x-scheme-handler/http=firefox.desktop
 x-scheme-handler/https=firefox.desktop
 text/html=firefox.desktop
@@ -31,7 +31,7 @@ image/gif=eom.desktop
 image/jpeg=eom.desktop
 image/png=eom.desktop
 image/tiff=eom.desktop
-application/pdf=atril.desktop
+application/pdf=xreader.desktop
 application/vnd.oasis.opendocument.text=libreoffice-writer.desktop
 application/rtf=libreoffice-writer.desktop
 application/msword=libreoffice-writer.desktop
@@ -41,10 +41,5 @@ application/vnd.ms-excel=libreoffice-calc.desktop
 application/vnd.openxmlformats-officedocument.spreadsheetml.sheet=libreoffice-calc.desktop
 
 [Added Associations]
-x-scheme-handler/http=firefox.desktop;
-x-scheme-handler/https=firefox.desktop;
-text/html=firefox.desktop;
-x-scheme-handler/about=firefox.desktop;
-x-scheme-handler/mailto=firefox.desktop;
-application/x-extension-eml=firefox.desktop;
-message/rfc822=firefox.desktop;
+text/plain=chili-clonedisk.desktop;
+application/pdf=xreader.desktop;
