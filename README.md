@@ -1,3 +1,3 @@
 # voidbr-mate-config
 
-Skel config for Void Linux MATE Meta Package
+Skel config for VoidBR MATE Meta Package

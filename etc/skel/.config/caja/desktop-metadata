@@ -1,23 +1,23 @@
 [directory]
 caja-icon-view-keep-aligned=true
-caja-icon-view-layout-timestamp=1777079058
+caja-icon-view-layout-timestamp=1780529793
 caja-icon-view-tighter-layout=false
 caja-icon-view-lock-icons-position=true
 
 [home]
 caja-icon-position=64,102
 icon-scale=1
-caja-icon-position-timestamp=1777079058
+caja-icon-position-timestamp=1780529793
 
 [trash]
 caja-icon-position=64,182
 icon-scale=1
-caja-icon-position-timestamp=1777079058
+caja-icon-position-timestamp=1780529793
 
 [computer]
 caja-icon-position=64,22
 icon-scale=1
-caja-icon-position-timestamp=1777079058
+caja-icon-position-timestamp=1780529793
 
 [BIGCOMMUNITY_LIVE_BASE.volume]
 caja-icon-position=64,182

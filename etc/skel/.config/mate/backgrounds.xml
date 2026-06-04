@@ -56,15 +56,6 @@
     <artist>(none)</artist>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>abstract-art3.jpg</name>
-    <filename>/usr/share/backgrounds/chililinux/abstract-art3.jpg</filename>
-    <options>zoom</options>
-    <shade_type>solid</shade_type>
-    <pcolor>rgb(39,88,126)</pcolor>
-    <scolor>rgb(98,127,90)</scolor>
-    <artist>(none)</artist>
-  </wallpaper>
-  <wallpaper deleted="false">
     <name>Copilot_20260303_024057.avif</name>
     <filename>/usr/share/backgrounds/voidbr/Copilot_20260303_024057.avif</filename>
     <options>zoom</options>
@@ -110,8 +101,8 @@
     <artist>Timothy Schellhase, Lapo Calamandrei</artist>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>Copilot_20260303_023630.avif</name>
-    <filename>/usr/share/backgrounds/voidbr/Copilot_20260303_023630.avif</filename>
+    <name>Copilot_20260303_024258.avif</name>
+    <filename>/usr/share/backgrounds/voidbr/Copilot_20260303_024258.avif</filename>
     <options>zoom</options>
     <shade_type>vertical-gradient</shade_type>
     <pcolor>rgb(88,145,188)</pcolor>
@@ -119,8 +110,8 @@
     <artist>(none)</artist>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>Copilot_20260303_024258.avif</name>
-    <filename>/usr/share/backgrounds/voidbr/Copilot_20260303_024258.avif</filename>
+    <name>Copilot_20260303_023630.avif</name>
+    <filename>/usr/share/backgrounds/voidbr/Copilot_20260303_023630.avif</filename>
     <options>zoom</options>
     <shade_type>vertical-gradient</shade_type>
     <pcolor>rgb(88,145,188)</pcolor>
@@ -155,15 +146,6 @@
     <artist>Charles Barbin</artist>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>Tempestade</name>
-    <filename>/usr/share/backgrounds/mate/nature/Storm.jpg</filename>
-    <options>zoom</options>
-    <shade_type>vertical-gradient</shade_type>
-    <pcolor>rgb(88,145,188)</pcolor>
-    <scolor>rgb(60,143,37)</scolor>
-    <artist>Sergey Nazarov</artist>
-  </wallpaper>
-  <wallpaper deleted="false">
     <name>Copilot_20260303_024304.avif</name>
     <filename>/usr/share/backgrounds/voidbr/Copilot_20260303_024304.avif</filename>
     <options>zoom</options>
@@ -182,15 +164,6 @@
     <artist>(none)</artist>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>Copilot_20260303_023636.avif</name>
-    <filename>/usr/share/backgrounds/voidbr/Copilot_20260303_023636.avif</filename>
-    <options>zoom</options>
-    <shade_type>vertical-gradient</shade_type>
-    <pcolor>rgb(88,145,188)</pcolor>
-    <scolor>rgb(60,143,37)</scolor>
-    <artist>(none)</artist>
-  </wallpaper>
-  <wallpaper deleted="false">
     <name>Gulp</name>
     <filename>/usr/share/backgrounds/mate/abstract/Gulp.png</filename>
     <options>zoom</options>
@@ -198,6 +171,15 @@
     <pcolor>rgb(98,127,90)</pcolor>
     <scolor>rgb(39,88,126)</scolor>
     <artist>Daniel Galleguillos, Hylke Bons</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Copilot_20260303_023636.avif</name>
+    <filename>/usr/share/backgrounds/voidbr/Copilot_20260303_023636.avif</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>rgb(88,145,188)</pcolor>
+    <scolor>rgb(60,143,37)</scolor>
+    <artist>(none)</artist>
   </wallpaper>
   <wallpaper deleted="false">
     <name>Ubuntu MATE, Frio</name>
@@ -236,6 +218,15 @@
     <artist>Charles Barbin</artist>
   </wallpaper>
   <wallpaper deleted="false">
+    <name>Copilot_20260303_024245.avif</name>
+    <filename>/usr/share/backgrounds/voidbr/Copilot_20260303_024245.avif</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>rgb(88,145,188)</pcolor>
+    <scolor>rgb(60,143,37)</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
     <name>Ubuntu MATE, Radioativo</name>
     <filename>/usr/share/backgrounds/mate/desktop/Ubuntu-Mate-Radioactive-no-logo.png</filename>
     <options>zoom</options>
@@ -254,15 +245,6 @@
     <artist>(none)</artist>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>Ubuntu MATE, Quente</name>
-    <filename>/usr/share/backgrounds/mate/desktop/Ubuntu-Mate-Warm-no-logo.png</filename>
-    <options>zoom</options>
-    <shade_type>vertical-gradient</shade_type>
-    <pcolor>rgb(88,145,188)</pcolor>
-    <scolor>rgb(60,143,37)</scolor>
-    <artist>Goce Mitevski</artist>
-  </wallpaper>
-  <wallpaper deleted="false">
     <name>Copilot_20260303_023624.avif</name>
     <filename>/usr/share/backgrounds/voidbr/Copilot_20260303_023624.avif</filename>
     <options>zoom</options>
@@ -270,6 +252,15 @@
     <pcolor>rgb(88,145,188)</pcolor>
     <scolor>rgb(60,143,37)</scolor>
     <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Ubuntu MATE, Quente</name>
+    <filename>/usr/share/backgrounds/mate/desktop/Ubuntu-Mate-Warm-no-logo.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>rgb(88,145,188)</pcolor>
+    <scolor>rgb(60,143,37)</scolor>
+    <artist>Goce Mitevski</artist>
   </wallpaper>
   <wallpaper deleted="false">
     <name>Copilot_20260303_023726.avif</name>
@@ -317,13 +308,13 @@
     <artist>Adam Erdman</artist>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>Algo lentamente fica claro</name>
-    <filename>/usr/share/backgrounds/mate/abstract/Elephants_5640x3172.jpg</filename>
-    <options>scaled</options>
-    <shade_type>vertical-gradient</shade_type>
-    <pcolor>rgb(114,159,207)</pcolor>
-    <scolor>rgb(0,0,0)</scolor>
-    <artist>Wyng Stancikaite</artist>
+    <name>abstract-art3.jpg</name>
+    <filename>/usr/share/backgrounds/chililinux/abstract-art3.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>rgb(39,88,126)</pcolor>
+    <scolor>rgb(98,127,90)</scolor>
+    <artist>(none)</artist>
   </wallpaper>
   <wallpaper deleted="false">
     <name>Duna</name>
@@ -335,13 +326,13 @@
     <artist>Marco Cogoni, Hylke Bons</artist>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>Listas</name>
-    <filename>/usr/share/backgrounds/mate/desktop/Stripes.png</filename>
-    <options>zoom</options>
+    <name>Algo lentamente fica claro</name>
+    <filename>/usr/share/backgrounds/mate/abstract/Elephants_5640x3172.jpg</filename>
+    <options>scaled</options>
     <shade_type>vertical-gradient</shade_type>
-    <pcolor>rgb(88,145,188)</pcolor>
-    <scolor>rgb(68,165,42)</scolor>
-    <artist>Jakub Steiner</artist>
+    <pcolor>rgb(114,159,207)</pcolor>
+    <scolor>rgb(0,0,0)</scolor>
+    <artist>Wyng Stancikaite</artist>
   </wallpaper>
   <wallpaper deleted="false">
     <name>Listas MATE, escuro</name>
@@ -353,6 +344,15 @@
     <artist>Adam Erdman</artist>
   </wallpaper>
   <wallpaper deleted="false">
+    <name>Listas</name>
+    <filename>/usr/share/backgrounds/mate/desktop/Stripes.png</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>rgb(88,145,188)</pcolor>
+    <scolor>rgb(68,165,42)</scolor>
+    <artist>Jakub Steiner</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
     <name>Arco</name>
     <filename>/usr/share/backgrounds/mate/abstract/Arc-Colors-Transparent-Wallpaper.png</filename>
     <options>zoom</options>
@@ -362,9 +362,9 @@
     <artist>(none)</artist>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>Copilot_20260303_024631.avif</name>
-    <filename>/usr/share/backgrounds/voidbr/Copilot_20260303_024631.avif</filename>
-    <options>zoom</options>
+    <name>No Desktop Background</name>
+    <filename>(none)</filename>
+    <options>wallpaper</options>
     <shade_type>vertical-gradient</shade_type>
     <pcolor>rgb(88,145,188)</pcolor>
     <scolor>rgb(60,143,37)</scolor>
@@ -416,13 +416,22 @@
     <artist>Patryk Zawadzki</artist>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>Ondas</name>
-    <filename>/usr/share/backgrounds/mate/abstract/Waves.png</filename>
+    <name>Copilot_20260303_024631.avif</name>
+    <filename>/usr/share/backgrounds/voidbr/Copilot_20260303_024631.avif</filename>
     <options>zoom</options>
-    <shade_type>horizontal-gradient</shade_type>
-    <pcolor>rgb(39,88,126)</pcolor>
-    <scolor>rgb(98,127,90)</scolor>
-    <artist>Patryk Zawadzki</artist>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>rgb(88,145,188)</pcolor>
+    <scolor>rgb(60,143,37)</scolor>
+    <artist>(none)</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Tempestade</name>
+    <filename>/usr/share/backgrounds/mate/nature/Storm.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>rgb(88,145,188)</pcolor>
+    <scolor>rgb(60,143,37)</scolor>
+    <artist>Sergey Nazarov</artist>
   </wallpaper>
   <wallpaper deleted="false">
     <name>Copilot_20260303_024127.avif</name>
@@ -434,6 +443,15 @@
     <artist>(none)</artist>
   </wallpaper>
   <wallpaper deleted="false">
+    <name>Fluxo</name>
+    <filename>/usr/share/backgrounds/mate/abstract/Flow.png</filename>
+    <options>zoom</options>
+    <shade_type>horizontal-gradient</shade_type>
+    <pcolor>rgb(39,88,126)</pcolor>
+    <scolor>rgb(98,127,90)</scolor>
+    <artist>Daniel Galleguillos, Hylke Bons</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
     <name>Pingos de Chuva</name>
     <filename>/usr/share/backgrounds/mate/nature/RainDrops.jpg</filename>
     <options>zoom</options>
@@ -443,13 +461,22 @@
     <artist>blackcombwhistler07</artist>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>Fluxo</name>
-    <filename>/usr/share/backgrounds/mate/abstract/Flow.png</filename>
+    <name>Ondas</name>
+    <filename>/usr/share/backgrounds/mate/abstract/Waves.png</filename>
     <options>zoom</options>
     <shade_type>horizontal-gradient</shade_type>
     <pcolor>rgb(39,88,126)</pcolor>
     <scolor>rgb(98,127,90)</scolor>
-    <artist>Daniel Galleguillos, Hylke Bons</artist>
+    <artist>Patryk Zawadzki</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Cegos</name>
+    <filename>/usr/share/backgrounds/mate/nature/Blinds.jpg</filename>
+    <options>zoom</options>
+    <shade_type>vertical-gradient</shade_type>
+    <pcolor>rgb(88,145,188)</pcolor>
+    <scolor>rgb(60,143,37)</scolor>
+    <artist>Lennart Poettering, Andrea Cimitan</artist>
   </wallpaper>
   <wallpaper deleted="false">
     <name>Ubuntu MATE, Escuro</name>
@@ -477,32 +504,5 @@
     <pcolor>rgb(114,159,207)</pcolor>
     <scolor>rgb(0,0,0)</scolor>
     <artist>Wyng Stancikaite</artist>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Cegos</name>
-    <filename>/usr/share/backgrounds/mate/nature/Blinds.jpg</filename>
-    <options>zoom</options>
-    <shade_type>vertical-gradient</shade_type>
-    <pcolor>rgb(88,145,188)</pcolor>
-    <scolor>rgb(60,143,37)</scolor>
-    <artist>Lennart Poettering, Andrea Cimitan</artist>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>Copilot_20260303_024245.avif</name>
-    <filename>/usr/share/backgrounds/voidbr/Copilot_20260303_024245.avif</filename>
-    <options>zoom</options>
-    <shade_type>vertical-gradient</shade_type>
-    <pcolor>rgb(88,145,188)</pcolor>
-    <scolor>rgb(60,143,37)</scolor>
-    <artist>(none)</artist>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>No Desktop Background</name>
-    <filename>(none)</filename>
-    <options>wallpaper</options>
-    <shade_type>vertical-gradient</shade_type>
-    <pcolor>rgb(88,145,188)</pcolor>
-    <scolor>rgb(60,143,37)</scolor>
-    <artist>(none)</artist>
   </wallpaper>
 </wallpapers>
