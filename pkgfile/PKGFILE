@@ -11,7 +11,7 @@ url="https://github.com/voidlinuxbr/${pkgname}"
 source=("git+${url}.git")
 md5sums=('SKIP')
 makedepends=()
-depends=(voidbr-xfce-theme-dracula)
+depends=(voidbr-theme-dracula)
 
 package() {
 	# Verify default folder
